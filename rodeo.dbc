@@ -145,7 +145,7 @@ BO_ 977 ECMCruiseControl: 8 K20_ECM
  SG_ InstantaneousFuel : 33|10@0+ (1,0) [0|0] "" NEO
 
 BO_ 1001 ECMVehicleSpeed: 8 K20_ECM
- SG_ VehicleSpeed : 7|16@0+ (0.01,0) [0|0] "mph"  NEO
+ SG_ VehicleSpeed : 7|16@0+ (0.015625,0) [0|0] "km/h"  NEO
  SG_ VehicleSpeedLeft : 39|16@0+ (0.01,0) [0|0] "mph" NEO
 
 BO_ 1237 Unknown12: 8 NEO
